@@ -7,7 +7,7 @@ class StudentDeveloper:
         self.name = "Gxlcyy"
         self.location = "Athens, Greece"
         self.role = "Student & Developer"
-        self.language_spoken = [":gr:", ":uk:"]
+        self.language_spoken = ["🇬🇷", "🇺🇸"]
 
     def say_hi(self):
         print("Hi and Welcome to my profile.")
