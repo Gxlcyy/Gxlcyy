@@ -4,7 +4,7 @@
 class StudentDeveloper:
 
     def __init__(self):
-        self.name = "Gxlcyy"
+        self.nick_name = "Gxlcyy"
         self.location = "Athens, Greece"
         self.role = "Student & Developer"
         self.language_spoken = ["🇬🇷", "🇺🇸"]
